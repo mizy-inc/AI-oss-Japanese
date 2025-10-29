@@ -22,3 +22,4 @@
 uv venv && source .venv/bin/activate
 uv pip install -r requirements.txt
 pytest -q
+更新テスト

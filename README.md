@@ -22,3 +22,4 @@
 uv venv && source .venv/bin/activate
 uv pip install -r requirements.txt
 pytest -q
+<!-- feature/ad-agent-init: 広告運用エージェント開発の初期構築ブランチ -->
